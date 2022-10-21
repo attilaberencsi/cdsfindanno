@@ -19,4 +19,4 @@ Help developers to find samples, especially when this error message appears in A
 ![Usage in GUI](https://user-images.githubusercontent.com/20442467/197277782-638cbe96-242a-43a2-917b-88c2fd5b836b.gif)
 
 ## Test results
-Tested on ABAP Platform 1909, and the same time good bye, such tool cannot be developed in the Trial Cloud for fun.
+Tested on ABAP Platform 1909, and the same time [good bye](https://blogs.sap.com/2021/02/15/sap-abap-platform-1909-developer-edition-available-soon/), such tool cannot be developed in the Trial Cloud for fun.
