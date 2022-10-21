@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Help developers to find samples, especially when this error message & appears in ADT: Text search services are not supported.
+Help developers to find samples, especially when this error message appears in ADT: Text search services are not supported.
 
 ## Features
 
