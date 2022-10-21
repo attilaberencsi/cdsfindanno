@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_DDANNOTATION_KEY</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>DDANNOTATION_KEY</DOMNAME>
+    <HEADLEN>10</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>10</SCRLEN3>
+    <DDTEXT>Annotation</DDTEXT>
+    <REPTEXT>Annotation</REPTEXT>
+    <SCRTEXT_S>Annotation</SCRTEXT_S>
+    <SCRTEXT_M>Annotation</SCRTEXT_M>
+    <SCRTEXT_L>Annotation</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>DD. Schlüssel/Name für Annotation</DDTEXT>
+     <REPTEXT>Annotation</REPTEXT>
+     <SCRTEXT_S>Annotation</SCRTEXT_S>
+     <SCRTEXT_M>Annotation</SCRTEXT_M>
+     <SCRTEXT_L>Annotation</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

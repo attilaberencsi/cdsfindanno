@@ -3,30 +3,19 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZSAPDEV_CDS_FIND_ANNO</NAME>
+    <NAME>ZSAPDEV_CDS_FIND_ANNO_CL01</NAME>
     <DBAPL>S</DBAPL>
-    <SUBC>1</SUBC>
+    <DBNA>D$</DBNA>
+    <SUBC>I</SUBC>
     <FIXPT>X</FIXPT>
     <LDBNAME>D$S</LDBNAME>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
    <TPOOL>
     <item>
-     <ID>I</ID>
-     <KEY>001</KEY>
-     <ENTRY>Show CDS</ENTRY>
-     <LENGTH>18</LENGTH>
-    </item>
-    <item>
      <ID>R</ID>
-     <ENTRY>Annotation Finder</ENTRY>
+     <ENTRY>lcl_alv_all_stuff</ENTRY>
      <LENGTH>17</LENGTH>
-    </item>
-    <item>
-     <ID>S</ID>
-     <KEY>S_FANNO</KEY>
-     <ENTRY>Annotations to Search</ENTRY>
-     <LENGTH>35</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
