@@ -17,3 +17,6 @@ Help developers to find samples, especially when this error message appears in A
 ## Usage in GUI
 
 ![Usage in GUI](https://user-images.githubusercontent.com/20442467/197277782-638cbe96-242a-43a2-917b-88c2fd5b836b.gif)
+
+## Test results
+Tested on ABAP Platform 1909, and the same time good bye, such tool cannot be developed in the Trial Cloud for fun.
