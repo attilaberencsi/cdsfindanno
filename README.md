@@ -4,7 +4,7 @@
 
 Help developers to find samples, especially when this error message appears in ADT: Text search services are not supported.
 
-## Features
+## Features of report ZSAPDEV_CDS_FIND_ANNO
 
 - Search for CDS header/field/parameter annotations
 - Type Ahead Value Help for Annotations (Existing in the System)
